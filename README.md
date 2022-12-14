@@ -7,4 +7,5 @@ https://github.com/ultralytics/yolov5
 
 
 Training was done by Mikhail Nikitin
-Training run results found in training/runs
+
+Training results are found in runs/train
