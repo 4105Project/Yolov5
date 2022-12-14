@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Edge', 'Sidewalk']
+
+roboflow:
+  workspace: uncc-algo-2
+  project: sidewalk-o14u9
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/uncc-algo-2/sidewalk-o14u9/dataset/4
