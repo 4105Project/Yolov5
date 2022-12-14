@@ -9,3 +9,5 @@ https://github.com/ultralytics/yolov5
 Training was done by Mikhail Nikitin
 
 Training results are found in runs/train
+
+exp was 150 epochs, exp2 was 300 epochs
